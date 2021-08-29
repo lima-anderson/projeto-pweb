@@ -2,27 +2,19 @@
   "professores": [
     {
       "nome": "Amanda",
-      "cpf": "128213",
+      "cpf": "821738",
       "idade": "20",
       "dataAdm": "01/01/2020",
       "sexo": "Feminino",
-      "id": 4
+      "id": 1
     },
     {
       "nome": "Anderson",
-      "cpf": "123213",
+      "cpf": "2930872",
       "idade": "20",
-      "dataAdm": "01/01/2021",
+      "dataAdm": "01/01/2020",
       "sexo": "Masculino",
-      "id": 5
-    },
-    {
-      "nome": "Pessoa",
-      "cpf": "2313",
-      "idade": "23",
-      "dataAdm": "02/02/2000",
-      "sexo": "Feminino",
-      "id": 6
+      "id": 2
     }
   ]
 }

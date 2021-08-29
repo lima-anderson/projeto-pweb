@@ -41,7 +41,7 @@ export class ListarProfessoresComponent implements OnInit {
         if(indexUsuarioParaRemover > -1) {
 
           this.professores.splice(indexUsuarioParaRemover, 1)
-
+          this.ngOnInit()
 
 
         }
