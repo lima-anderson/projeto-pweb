@@ -1,3 +1,5 @@
+
+<div fxLayout="row" fxLayoutAlign="center" fxLayoutGap="10px">
 <mat-card><mat-card-title align="center">Listagem de Professores</mat-card-title></mat-card>
 <table  mat-table [dataSource]="professores" >
   <ng-container  matColumnDef="nome">
@@ -34,3 +36,4 @@
   <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
 </table>
 
+</div>
