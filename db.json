@@ -1,0 +1,20 @@
+{
+  "professores": [
+    {
+      "nome": "Amanda",
+      "cpf": "128213",
+      "idade": "20",
+      "dataAdm": "01/01/2020",
+      "sexo": "Feminino",
+      "id": 4
+    },
+    {
+      "nome": "Anderson",
+      "cpf": "123213",
+      "idade": "20",
+      "dataAdm": "01/01/2021",
+      "sexo": "Masculino",
+      "id": 5
+    }
+  ]
+}
